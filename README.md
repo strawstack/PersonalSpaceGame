@@ -8,3 +8,5 @@ Play Online: https://strawstack.github.io/PersonalSpaceGame
 
 Visit Itch.io for game details
 [https://richardhayes.itch.io/personal-space](https://richardhayes.itch.io/personal-space)
+
+![](./image_three)
