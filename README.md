@@ -8,7 +8,7 @@ A game about flying through space, relaxing, and wondering.
 
 # Screenshot
 
-![](#)
+![](./screenshot.png)
 
 # Game Trailer
 
