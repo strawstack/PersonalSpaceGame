@@ -2,7 +2,15 @@
 
 A game about flying through space, relaxing, and wondering.
 
-[view online demo](https://richardhayes.itch.io/personal-space)
+# Live Demo
+
+[View Live Demo](https://richardhayes.itch.io/personal-space)
+
+# Screenshot
+
+![](#)
+
+# Game Trailer
 
 [watch the trailer](https://richardhayes.itch.io/personal-space)
 
